@@ -1,0 +1,2 @@
+# escaner
+escanea
